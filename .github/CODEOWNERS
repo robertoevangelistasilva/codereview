@@ -1,3 +1,4 @@
 *.js @betorocamo
 .github/ @robertoevangelistasilva
 *.go @robertoevangelistasilva
+*.html @robertoevangelistasilva
